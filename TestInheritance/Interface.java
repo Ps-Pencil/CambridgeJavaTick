@@ -1,0 +1,4 @@
+package TestInheritance;
+interface Interface{
+
+}
